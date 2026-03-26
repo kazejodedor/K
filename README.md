@@ -1,4 +1,3 @@
-# 
 import requests
 import time
 
@@ -9,13 +8,13 @@ GROUP_CHANNEL_ID = "1482162306237599835"   # ejemplo, cámbialo por el real
 
 # Lista de nombres que quieres poner (puedes agregar cuantos quieras)
 nombres = [
-    "Grupo de las perras asociales 😂",
-    "Mami Eduarda + Warszlady limpio ano",
-    "JAJAJAJA DOMAORRA XD",
-    "Server de los Undeanos Dioses 🔥",
-    "P9 ROFL TU NALGA",
-    "Anti Difamadoras Official",
-    "Cum Dump Group"
+    "WARSZLADYS MAMIS PENETRADAS",
+    "Mami Eduarda + Warszlady EYACULADAS",
+    "SWATORR4 EYACULADA",
+    "UNDEANIZA JODEDORA",
+    "NALGORR4 WARSZLADY",
+    "MAMI EDUARDA TIENEN TDAH ",
+    "NALBOTS DE EDUARDA"
 ]
 
 veces = 9999999999          # prácticamente infinito
